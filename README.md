@@ -2,8 +2,16 @@
 
 A tiny, browser-based tool that turns terminal-style text into clean **GIFs** (and **MP4**) — perfect for READMEs, demos, and indie hacker updates.
 
+---
+
+## 🧠 Why I made this?
+
+I created this Terminal GIF maker since I wanted to enhance my README.md page for my GitHub profile page. I found some online but I wanted more customizalbility and for it to have the UX visual look I wanted for my README.md page. I decided to spin up a quick web app that allows anyone to create a totally custom GIF in a visual style resembling that of a terminal.
+
+---
+
 ## 💭 What you can do
-- **Type + style** terminal output (fonts, colors, spacing, window chrome)
+- **Type + style** terminal output (fonts, colours, spacing, window chrome)
 - **Preview/edit** before exporting (no surprises)
 - Export as **GIF** (and **MP4**) directly from the browser
 - Works great on **GitHub Pages** (no backend needed)
