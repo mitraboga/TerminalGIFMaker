@@ -1,5 +1,5 @@
 <h1 align="center">👾 Terminal GIF Maker 🔗</h1>
-<h5 align="center">A tiny, browser-based tool that turns terminal-style text into clean GIFs (MP4s) — perfect for READMEs, demos, and indie hacker updates.</h5>
+<h5 align="center">A tiny, browser-based tool that turns terminal-style text into clean GIFs (MP4s) - perfect for READMEs, demos, and indie hacker updates.</h5>
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-Structure-E34F26?logo=html5&logoColor=white" />
