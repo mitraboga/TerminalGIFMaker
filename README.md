@@ -141,12 +141,6 @@ Using Selenium testing ensures that future updates to the application can be val
 
 ---
 
-# ⚖️ License
-
-Licensed under the **MIT License** — see `LICENSE`.
-
----
-
 ## 👤 Author
 
 <p align="center">
